@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Stop Motion（feat. 魔界ノりりむ）",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2025-12-26T08:56:31.745106Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stop Motion (feat. 魔界ノりりむ)",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Stop_Motion_(feat._魔界ノりりむ)_ピーナッツくん.txt"
+    }
+  ]
+}
